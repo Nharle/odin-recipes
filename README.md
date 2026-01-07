@@ -1,0 +1,1 @@
+This project is going to be a simple website that has an index page and a few links that leads to recipes. I should be more comfortable and know how to set up a basic webpage after this project. 
