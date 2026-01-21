@@ -2,21 +2,28 @@
     margin:0;
     padding:0;
 }
+.foodList {
+    list-style-type:none;
+}
+a {
+    padding: 16px;
+}
 body {
     font-family:Georgia, serif;
     background-color: bisque;
     box-sizing: border-box;
+    padding:16px;
+    
 }
-.title {
+h1 {
     background-color: rgb(239, 184, 66);
     margin: 12px;
     width: 33%;
     padding:16px;
 }
-.recipesList {
-    margin:20px;
-    list-style-type: none;
+h2 {
+    margin-top: 12px;
 }
-a {
-    padding: 16px;
+img {
+    padding:16px;
 }
